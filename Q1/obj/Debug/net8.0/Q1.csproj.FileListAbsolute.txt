@@ -1,0 +1,15 @@
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\bin\Debug\net8.0\Q1.exe
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\bin\Debug\net8.0\Q1.deps.json
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\bin\Debug\net8.0\Q1.dll
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\bin\Debug\net8.0\Q1.pdb
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.dll
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\refint\Q1.dll
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.pdb
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\ref\Q1.dll
+D:\FPT-ki7\PRN212\ASM01\PE_PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.csproj.Up2Date
